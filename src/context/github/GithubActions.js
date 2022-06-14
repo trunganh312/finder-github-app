@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const github = axios.create({
   baseURL: 'https://api.github.com',
-  headers: { Authorization: `token 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` },
+  headers: { Authorization: `token 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` },
 })
 
 // Get search results
